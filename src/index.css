@@ -1,0 +1,37 @@
+
+
+/* product.jsx 's style start */
+
+.mainbox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color:#eeeeee;
+  width: 438px;
+  height: 234px;
+  border-radius: 23px;
+  margin: 10px;
+  padding: 5px;
+}
+
+.mainbox img {
+  width: 345px;
+  height: 100%;
+  border-radius: 23px;
+  
+}
+
+.addtocartbtn{
+  background-color: #cecece;
+  border-radius: 15px;
+  padding: 8px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: none;
+}
+
+
+/* product.jsx 's style end */
+
+
+
